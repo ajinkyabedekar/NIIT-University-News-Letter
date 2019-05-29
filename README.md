@@ -71,3 +71,7 @@ Message from Dr. Anshima Prakash Srivastava:
 The website is now launched by the NIIT University Newsletter Team.
 
 Earlier, the team has to hard-code every time a news needs to be highlighted on the website. So, this project was done to develop a website in which a non-technical person can also upload news and events in the website just with the access to the admin panel.
+
+Use Case Diagram:
+
+![Screenshot.png](Screenshot.png)
