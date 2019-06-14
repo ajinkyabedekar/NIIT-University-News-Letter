@@ -1,6 +1,6 @@
 # NIIT University News Letter
 
-The project was done as a part of Software Engineering course. This website was made to keep all the news and events taking place in NIIT University at one place. The website is completely developed in WordPress.
+The project was done as a part of Software Engineering course. This website was made as web app for aNUkriti to keep all the news and events taking place in NIIT University at one place. The website is completely developed in WordPress.
 
 The team members were:
 
@@ -75,3 +75,10 @@ Earlier, the team has to hard-code every time a news needs to be highlighted on 
 Use Case Diagram:
 
 ![Screenshot.png](Screenshot.png)
+
+Some snapshots of our project:
+
+![https://user-images.githubusercontent.com/31134009/49535258-be629400-f8e9-11e8-8e5a-7570176d859b.PNG](https://user-images.githubusercontent.com/31134009/49535258-be629400-f8e9-11e8-8e5a-7570176d859b.PNG)
+
+
+![https://user-images.githubusercontent.com/31134009/49302289-b327f680-f4ec-11e8-9054-5ff40c5a50c7.png](https://user-images.githubusercontent.com/31134009/49302289-b327f680-f4ec-11e8-9054-5ff40c5a50c7.png)
